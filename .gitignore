@@ -1,0 +1,20 @@
+
+# Node.js
+node_modules/
+
+# Editor
+.vscode/
+
+# Build files
+build/
+
+# Logs
+*.log
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Three.js examples and tests
+examples/
+tests/
