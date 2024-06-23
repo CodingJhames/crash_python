@@ -1,7 +1,6 @@
-# Hoenn Detour
+# Crash Python
 
-Practice from the applicaton concepts from Three.js library
-also hope will be a Hoenn map to make some interactions.
+Practice from the applicaton concepts from Crash Python.
 
 ## Maintainers
 
